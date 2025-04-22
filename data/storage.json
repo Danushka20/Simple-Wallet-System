@@ -1,0 +1,209 @@
+{
+    "users": {
+        "1": {
+            "balance": 542
+        },
+        "2": {
+            "balance": 655
+        },
+        "6": {
+            "balance": 10000093
+        },
+        "67": {
+            "balance": 1000
+        },
+        "d 5": {
+            "balance": 40
+        },
+        "9": {
+            "balance": 40.06
+        },
+        "4": {
+            "balance": 13521
+        }
+    },
+    "transactions": [
+        {
+            "id": "6805cbb8276c4",
+            "user_id": "1",
+            "type": "deposit",
+            "amount": 1000,
+            "timestamp": 1745210296
+        },
+        {
+            "id": "6805cbc0f091d",
+            "user_id": "1",
+            "type": "withdraw",
+            "amount": 100,
+            "timestamp": 1745210304
+        },
+        {
+            "id": "6805cbf13ec75",
+            "user_id": "2",
+            "type": "deposit",
+            "amount": 678,
+            "timestamp": 1745210353
+        },
+        {
+            "id": "6805cbf9a7ee5",
+            "user_id": "2",
+            "type": "withdraw",
+            "amount": 23,
+            "timestamp": 1745210361
+        },
+        {
+            "id": "6805cda1768b3",
+            "user_id": "6",
+            "type": "deposit",
+            "amount": 100,
+            "timestamp": 1745210785
+        },
+        {
+            "id": "6805cda93677c",
+            "user_id": "6",
+            "type": "withdraw",
+            "amount": 7,
+            "timestamp": 1745210793
+        },
+        {
+            "id": "6805cdb49bb9c",
+            "user_id": "6",
+            "type": "deposit",
+            "amount": 10000000,
+            "timestamp": 1745210804
+        },
+        {
+            "id": "6805cfb4db8db",
+            "user_id": "1",
+            "type": "deposit",
+            "amount": 56,
+            "timestamp": 1745211316
+        },
+        {
+            "id": "6805cfb642112",
+            "user_id": "1",
+            "type": "withdraw",
+            "amount": 45,
+            "timestamp": 1745211318
+        },
+        {
+            "id": "6805d48769eae",
+            "user_id": "1",
+            "type": "deposit",
+            "amount": 23,
+            "timestamp": 1745212551
+        },
+        {
+            "id": "6805d49ba86cf",
+            "user_id": "1",
+            "type": "withdraw",
+            "amount": 455,
+            "timestamp": 1745212571
+        },
+        {
+            "id": "6805d4b448618",
+            "user_id": "67",
+            "type": "deposit",
+            "amount": 1000,
+            "timestamp": 1745212596
+        },
+        {
+            "id": "6805d71050fe6",
+            "user_id": "d 5",
+            "type": "deposit",
+            "amount": 44,
+            "timestamp": 1745213200
+        },
+        {
+            "id": "6805d71220391",
+            "user_id": "d 5",
+            "type": "withdraw",
+            "amount": 4,
+            "timestamp": 1745213202
+        },
+        {
+            "id": "6805d9b75f808",
+            "user_id": "1",
+            "type": "deposit",
+            "amount": 23,
+            "timestamp": 1745213879
+        },
+        {
+            "id": "68061f3c68465",
+            "user_id": "9",
+            "type": "deposit",
+            "amount": 45,
+            "timestamp": 1745231676
+        },
+        {
+            "id": "68061f3fa2173",
+            "user_id": "9",
+            "type": "withdraw",
+            "amount": 5,
+            "timestamp": 1745231679
+        },
+        {
+            "id": "6806210e16f86",
+            "user_id": "9",
+            "type": "deposit",
+            "amount": 0.06,
+            "timestamp": 1745232142
+        },
+        {
+            "id": "6806362a0cb4d",
+            "user_id": "1",
+            "type": "deposit",
+            "amount": 7,
+            "timestamp": 1745237546
+        },
+        {
+            "id": "6806394616a4d",
+            "user_id": "4",
+            "type": "deposit",
+            "amount": 5678,
+            "timestamp": 1745238342
+        },
+        {
+            "id": "68063949b0301",
+            "user_id": "4",
+            "type": "withdraw",
+            "amount": 56,
+            "timestamp": 1745238345
+        },
+        {
+            "id": "6806394d610cf",
+            "user_id": "4",
+            "type": "deposit",
+            "amount": 7899,
+            "timestamp": 1745238349
+        },
+        {
+            "id": "680701f8435d8",
+            "user_id": "1",
+            "type": "deposit",
+            "amount": 12,
+            "timestamp": 1745289720
+        },
+        {
+            "id": "680701fdac34b",
+            "user_id": "1",
+            "type": "withdraw",
+            "amount": 14,
+            "timestamp": 1745289725
+        },
+        {
+            "id": "6807070f0973e",
+            "user_id": "1",
+            "type": "deposit",
+            "amount": 18,
+            "timestamp": 1745291023
+        },
+        {
+            "id": "68070a685dcc5",
+            "user_id": "1",
+            "type": "deposit",
+            "amount": 17,
+            "timestamp": 1745291880
+        }
+    ]
+}
